@@ -26,3 +26,6 @@
 //   return a + b;
 // }
 
+
+let age3 :number =20
+console.log(age3)
