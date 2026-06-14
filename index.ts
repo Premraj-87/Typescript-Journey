@@ -1,4 +1,6 @@
-function add(a:number,b:number):number{
-    return a+b
-}
-console.log(add(5,10))
+//@ts-ignore
+let message:string = "Hello this is String";
+console.log(message)
+let sentence :string ="please this is it";
+let sentenceLength =sentence.length;
+console.log(sentenceLength)
