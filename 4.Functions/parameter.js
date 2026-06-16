@@ -1,5 +1,5 @@
 "use strict";
-//* 1.Parameter Types 
+//! 1.Parameter Types 
 // {
 //     function add(a:number,b:number){
 //         return a+b;
@@ -12,7 +12,7 @@
 // }
 // console.log(multiphy(5,4))
 //* Practice 2
-function greet(name) {
-    return `Hello ${name}`;
-}
-greet("Prem");
+// function greet(name:string){
+//     return `Hello ${name}`;
+// }
+// greet("Prem")
